@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: Mike's HP
+title: Birds of Kazakhstan
 description: Test hosted portal
 background: /assets/images/placeholders/kazakhstan-steppe-nature-mountains.jpg
 imageLicense: |
