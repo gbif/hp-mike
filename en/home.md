@@ -2,8 +2,8 @@
 lang-ref: home
 layout: home
 title: Mike's HP
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat
-background: /assets/images/placeholders/acalypha_gillespieae_1258001892.jpg
+description: Test hosted portal
+background: /assets/images/placeholders/kazakhstan-steppe-nature-mountains.jpg
 imageLicense: |
   [Holotype of _Acalypha gillespieae_ G.A.Levin & I.Montero, 2020](https://www.gbif.org/occurrence/1258001892) from [Missouri Botanical Garden](/institution/1be3aa67-8f90-4309-92f4-bd55426a8c09)
 height: 90vh
